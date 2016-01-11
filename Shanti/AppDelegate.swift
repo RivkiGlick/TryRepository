@@ -36,7 +36,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate{
     var landcape = Bool()
     var portrait = Bool()
     var nomi = 10
-    
+    var cohen = 10
     
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         NSNotificationCenter.defaultCenter().addObserver(self, selector: "rotated", name: UIDeviceOrientationDidChangeNotification, object: nil)
