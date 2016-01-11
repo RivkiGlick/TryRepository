@@ -1140,6 +1140,7 @@
 		5169099D1A514F9600265A02 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = webit;
 				TargetAttributes = {

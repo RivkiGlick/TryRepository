@@ -35,6 +35,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate{
 //    var isFaceBook:Bool = false
     var landcape = Bool()
     var portrait = Bool()
+    var nomi = 10
     
     
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {

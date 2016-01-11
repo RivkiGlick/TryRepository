@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F370F6304C9307E7A3EB2A3F393A00C2667EB7F6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FA4F1F576C1BA43A090EE3C8DC46DC4C201C2940" : 0,
+    "F370F6304C9307E7A3EB2A3F393A00C2667EB7F6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BBCCD4EB-AC89-4C18-B1C3-5136474E992F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FA4F1F576C1BA43A090EE3C8DC46DC4C201C2940" : "Shantiapp-IoS%203",
+    "F370F6304C9307E7A3EB2A3F393A00C2667EB7F6" : "TryRepository\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Shanti",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Shanti.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RivkiGlick\/TryRepository.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F370F6304C9307E7A3EB2A3F393A00C2667EB7F6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Shantiapp\/Shantiapp-IoS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA4F1F576C1BA43A090EE3C8DC46DC4C201C2940"
+    }
+  ]
+}
